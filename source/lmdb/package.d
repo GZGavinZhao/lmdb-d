@@ -77,3 +77,5 @@ unittest
     assert(dd.fromStringz == "jimothy", "not matched");
     mdb_txn_abort(txn);
 }
+
+void main() {}

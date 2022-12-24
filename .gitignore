@@ -13,3 +13,4 @@ lmdb-d-test-*
 *.o
 *.obj
 *.lst
+bazel-*
